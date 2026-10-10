@@ -1,0 +1,7 @@
+{
+  "name": "mirror-lake-design",
+  "version": "0.5.1",
+  "private": true,
+  "description": "镜湖残响游戏设计文档与 GitHub Pages 阅读站",
+  "scripts": {"build": "node scripts/build.cjs", "test": "node scripts/check.cjs", "preview": "node scripts/serve.cjs"}
+}
